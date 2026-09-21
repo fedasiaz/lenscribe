@@ -1,6 +1,6 @@
 # Lenscribe
 
-Cross-platform screen OCR and translation tool. Select any area of your screen, extract the text, and translate it instantly.
+Screen OCR and translation tool. Select any area of your screen, extract the text, and translate it instantly.
 
 ![Lenscribe overlay](screenshots/overlay.png)
 
